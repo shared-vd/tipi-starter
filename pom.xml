@@ -55,7 +55,7 @@
         <dependency>
             <groupId>${project.groupId}</groupId>
             <artifactId>tipi-engine</artifactId>
-            <version>1.0.5</version>
+            <version>${project.version}</version>
         </dependency>
 
         <!-- Test deps -->
