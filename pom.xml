@@ -4,7 +4,7 @@
 
     <groupId>ch.sharedvd.tipi</groupId>
     <artifactId>tipi-starter</artifactId>
-    <version>1.1.12-SNAPSHOT</version>
+    <version>2.0.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>TiPi - Spring Boot Starter</name>
@@ -14,7 +14,7 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>1.5.14.RELEASE</version>
+        <version>2.0.5.RELEASE</version>
         <relativePath />
     </parent>
 
@@ -136,7 +136,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <java.version>1.8</java.version>
 
-        <tipi-engine.version>1.1.11</tipi-engine.version>
+        <tipi-engine.version>2.0.0</tipi-engine.version>
     </properties>
 
 </project>
